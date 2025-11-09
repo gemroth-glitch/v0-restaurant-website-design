@@ -45,8 +45,7 @@ export default function Atmosphere() {
         {/* Description */}
         <div className="max-w-3xl mx-auto text-center space-y-4 md:space-y-6">
           <p className="text-foreground/70 text-sm md:text-base lg:text-lg leading-relaxed">
-            Naša restaurace je vybavena v tradičním italském stylu s pozorností na každý detail. Teplé osvětlení, měkké
-            barvy a příjemné zvuky vytvářejí ideální prostředí pro nezapomenutelné chvíle s přáteli a rodinou.
+            Naša restaurace je vybavena v tradičním italském stylu s pozorností na každý detail. Teplé osvětlení, měkké barvy a příjemná hudba vytvářejí ideální prostředí pro nezapomenutelné chvíle s přáteli a rodinou.
           </p>
           <p className="text-foreground/70 text-sm md:text-base lg:text-lg leading-relaxed">
             Máme kapacitu až 120 hostů a nabízíme soukromé prostory pro společenské akce a firemní večeře. Každý moment
