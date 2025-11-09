@@ -53,10 +53,10 @@ export default function Atmosphere() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center pt-6 md:pt-8">
             <button className="bg-primary text-primary-foreground px-6 py-2.5 md:py-3 rounded-sm hover:opacity-90 transition-opacity font-medium text-sm md:text-base w-full sm:w-auto">
-              Rezervace event
+              Rezervace 
             </button>
             <button className="border-2 border-primary text-primary px-6 py-2.5 md:py-3 rounded-sm hover:bg-primary/10 transition-all font-medium text-sm md:text-base w-full sm:w-auto">
-              Galerie fotosestav
+              Galerie 
             </button>
           </div>
         </div>

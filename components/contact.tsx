@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-10 md:mb-16">
           <p className="section-subtitle text-primary mb-2 md:mb-4 text-xs md:text-sm">KONTAKTUJTE NÁS</p>
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground">Máme se těšit na vaši návštěvu</h2>
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground">Moc se těšíme na vaši návštěvu</h2>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 mb-10 md:mb-12">
